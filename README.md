@@ -28,3 +28,12 @@
 <P> 🍵 My favourite drink is matchaa ≽ܫ≼ </P>
 <P> 🎞 In my free time, i like to watch C-drama and K-dramas ૮₍ ˃ ⤙ ˂ ₎ა </P>
 <P> 💫 I lovee animals, especially dogss 🐶 </P>
+
+<h3> K/Cdramas I recommend to watch ₊˚ෆ˚</h3>
+<ol>
+  <li> When i fly towards you ( this is the best C-drama ever) ⋆୨♡୧⋆ ˚</li>
+  <li> True Beauty (season 2 please) ˗ˏˋ ♡ ˎˊ˗ </li>
+  <li> Hidden Love (the cast is so good) ⋆⭒♡˚.⋆ </li>
+  <li> My Demon (the power couple) ˚ ೀ⋆｡˚ </li>
+</ol>
+

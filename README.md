@@ -12,7 +12,7 @@
 
 
 
-<h1> My favourite singer's ⸝⸝> <⸝⸝ </h1>
+<h2> My favourite singer's ⸝⸝> <⸝⸝ </h2>
 <ul>
   <li> Daniel Ceaser 🌙 ૮₍  ˶•⤙•˶ ₎ა </li>
   <li> Taylor Swift (˶˃ ᵕ ˂˶) ⋆˚࿔ 𝜗𝜚˚⋆  </li>

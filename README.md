@@ -30,10 +30,10 @@
 <P> 💫 I lovee animals, especially dogss 🐶 </P>
 
 <h3> K/Cdramas I recommend to watch ₊˚ෆ˚</h3>
-<ol>
+<ul>
   <li> When i fly towards you ( this is the best C-drama ever) ⋆୨♡୧⋆ ˚</li>
   <li> True Beauty (season 2 please) ˗ˏˋ ♡ ˎˊ˗ </li>
   <li> Hidden Love (the cast is so good) ⋆⭒♡˚.⋆ </li>
   <li> My Demon (the power couple) ˚ ೀ⋆｡˚ </li>
-</ol>
+</ul>
 
